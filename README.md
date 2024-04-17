@@ -1,6 +1,6 @@
 # Smart_attendance_system
 
-Hello! I am excited to share with you my project for the Microsoft Engage 2022 mentorship program. 
+Hello! I am excited to share with you my project
 I have created a smart attendance system that enables you to add unlimited students with the option to update or delete their information. 
 This system captures photos and uses facial recognition technology to identify individuals and record their attendance.
 
